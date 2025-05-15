@@ -58,3 +58,5 @@ Computer Science and Engineering student passionate about data analysis and auto
 This project helped me improve my Excel and dashboarding skills. I am committed to learning more and making even better projects in the future.
 
 If you have any suggestions for improvements or want to collaborate, feel free to contact me or share your ideas! I’m always open to feedback and guidance.
+
+⚠️ This project contains VBA macros. Please download the .xlsm file and open it using Excel Desktop version to experience full functionality. Excel Online does not support VBA.
